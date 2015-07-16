@@ -1,0 +1,41 @@
+Creating the database:
+$ use chat
+
+Inserting sample data into the database:
+$ db.messages.insert({
+    "text" : "Hi, how are you?",
+    "date" : Date(),
+    "isRead" : "false",
+    "user" : {
+        "username" : "Petar",
+        "fullName" : "Petar Georgiev",
+        "website" : "www.google.com"
+    }
+})
+
+$ db.messages.insert({
+    "text" : "Kvo stava maniachence? she gi razkyrtime li fransetata na voleibola?",
+    "date" : "Mon Jul 13 2015 15:03:51 GMT+0300 (FLE Daylight Time)",
+    "isRead" : "true",
+    "user" : {
+        "username" : "ilcho",
+        "fullName" : "Iliq Stanev Aleksandrov",
+        "website" : "www.facebook.com"
+    }
+})
+
+$ db.messages.insert({
+    "text" : "brato imam goliam problem s mrejata... nema puskane idvai s kafeta... :/",
+    "date" : "Mon Jul 13 2015 15:05:14 GMT+0300 (FLE Daylight Time)",
+    "isRead" : "false",
+    "user" : {
+        "username" : "100to",
+        "fullName" : "Stoil Donev",
+        "website" : "www.zamunda.net.com"
+    }
+})
+
+Dumping the database into a backup:
+1. Navigate to bin directory of MongoDB
+2. mongodump --db chat
+3. Find the documents dumped into dump folder inside bin directory

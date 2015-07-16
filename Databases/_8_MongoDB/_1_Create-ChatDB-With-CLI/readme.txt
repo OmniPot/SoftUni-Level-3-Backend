@@ -1,0 +1,1 @@
+I have created a backup for the "chat" database using the "mongodump" tool.

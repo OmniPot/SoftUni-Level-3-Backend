@@ -1,0 +1,47 @@
+--alter table Leagues
+--add IsSeasonal bit default(0)
+
+--insert into TeamMatches(HomeTeamId, AwayTeamId, HomeGoals, AwayGoals, MatchDate, LeagueId)
+--values (
+--	(select Id from Teams where TeamName = 'Empoli'),
+--	(select Id from Teams where TeamName = 'Parma'),
+--	2,
+--	2,
+--	'19-Apr-2015 16:00',
+--	(select Id from Leagues where LeagueName = 'Italian Serie A')
+--)
+
+--insert into TeamMatches(HomeTeamId, AwayTeamId, HomeGoals, AwayGoals, MatchDate, LeagueId)
+--values (
+--	(select Id from Teams where TeamName = 'Internazionale'),
+--	(select Id from Teams where TeamName = 'AC Milan'),
+--	0,
+--	0,
+--	'19-Apr-2015 21:45',
+--	(select Id from Leagues where LeagueName = 'Italian Serie A')
+--)
+
+--update Leagues
+--set IsSeasonal = 1
+--from Leagues l
+--where (
+--	select count(tm.Id)
+--	from TeamMatches tm
+--	where tm.LeagueId = l.Id
+--) >= 1
+
+--select
+--	ht.TeamName as [Home Team],
+--	tm.HomeGoals as [Home Goals],
+--	at.TeamName as [Away Team],
+--	tm.AwayGoals as [Away Goals],
+--	l.LeagueName as [League Name]
+--from Leagues l
+--join TeamMatches tm
+--	on l.Id = tm.LeagueId
+--join Teams ht
+--	on ht.Id = tm.HomeTeamId
+--join Teams at
+--	on at.Id = tm.AwayTeamId
+--where tm.MatchDate > '04-10-2015'
+--order by l.LeagueName, [Home Goals] desc, [Away Goals] desc

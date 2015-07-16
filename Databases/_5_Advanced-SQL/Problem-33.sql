@@ -1,0 +1,8 @@
+USE SoftUni
+GO
+
+BEGIN TRAN
+DROP TABLE EmployeesProjects
+
+ROLLBACK TRAN
+GO

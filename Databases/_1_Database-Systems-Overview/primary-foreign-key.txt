@@ -1,0 +1,2 @@
+A primary key is a field or combination of fields that uniquely identify a record in a table, so that an individual record can be located without confusion.
+A foreign key (sometimes called a referencing key) is a key used to link two tables together. Typically you take the primary key field from one table and insert it into the other table where it becomes a foreign key (it remains a primary key in the original table). - See more at: http://talk.thewebhostingdir.com/microsoft-sql-server/22715-difference-between-primary-key-foreign-key.html#sthash.gc7VdfzF.dpuf

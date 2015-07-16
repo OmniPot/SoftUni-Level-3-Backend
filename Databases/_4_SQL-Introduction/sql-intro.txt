@@ -1,0 +1,15 @@
+DML is abbreviation of Data Manipulation Language. It is used to retrieve, store, modify, delete, insert and update data in database.
+
+Examples: SELECT, UPDATE, INSERT statements
+
+DDL is abbreviation of Data Definition Language. It is used to create and modify the structure of database objects in database.
+
+Examples: CREATE, ALTER, DROP statements
+
+DCL is abbreviation of Data Control Language. It is used to create roles, permissions, and referential integrity as well it is used to control access to database by securing it.
+
+Examples: GRANT, REVOKE statements
+
+TCL is abbreviation of Transactional Control Language. It is used to manage different transactions occurring within a database.
+
+Examples: COMMIT, ROLLBACK statements
