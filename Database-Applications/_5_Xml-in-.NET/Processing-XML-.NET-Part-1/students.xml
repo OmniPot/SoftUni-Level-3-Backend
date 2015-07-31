@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students xmlns="urn:students">
+	<student>
+		<name>Christian Nagel</name>
+		<gender>Male</gender>
+		<birth-date>1992-06-17</birth-date>
+		<phone-number>0893125151</phone-number>
+		<email>zybli0@abv.bg</email>
+		<university>University of Texas</university>
+		<speciality>Physics</speciality>
+		<faculty-number>300-31-964</faculty-number>
+		<exams>
+			<exam>
+				<name>Basics of Physics</name>
+				<date-taken>2014-01-15</date-taken>
+				<grade>5.82</grade>
+			</exam>
+			<exam>
+				<name>Astro-Physics</name>
+				<date-taken>2014-05-12</date-taken>
+				<grade>5.68</grade>
+			</exam>
+		</exams>
+	</student>
+	<student>
+		<name>Andrew H. Watt</name>
+		<gender>Male</gender>
+		<birth-date>1994-02-01</birth-date>
+		<phone-number>0883710573</phone-number>
+		<email>motikarq@gmail.com</email>
+		<university>Massachusetts Institute of Technology</university>
+		<speciality>Computational Engineering</speciality>
+		<faculty-number>115-12-124</faculty-number>
+		<exams>
+			<exam>
+				<name>Computational Systems</name>
+				<date-taken>2015-01-30</date-taken>
+				<grade>6.00</grade>
+			</exam>
+		</exams>
+	</student>
+</students>

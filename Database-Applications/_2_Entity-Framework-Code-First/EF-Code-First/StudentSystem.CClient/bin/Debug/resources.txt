@@ -1,0 +1,5 @@
+C#-Book,2,www.nakov.com
+Java - The Good Parts,3,www.java.com
+SoftUni Forum - C# Topic,3,www.softuni.bg
+Atanas Rusenov - Introduction to Java,0,www.youtube.com/id=246247237
+Iordan Darakchiev - Expressions/Statements/Loops,1,www.softuni.com/courseId=3251216

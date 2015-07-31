@@ -1,0 +1,14 @@
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\bin\Debug\NewsApp.exe.config
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\bin\Debug\NewsApp.exe
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\bin\Debug\NewsApp.pdb
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\bin\Debug\EntityFramework.dll
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\bin\Debug\News.Data.dll
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\bin\Debug\News.Models.dll
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\bin\Debug\News.Data.pdb
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\bin\Debug\News.Models.pdb
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\bin\Debug\EntityFramework.xml
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\obj\Debug\NewsApp.csprojResolveAssemblyReference.cache
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\obj\Debug\NewsApp.exe
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\NewsApp\obj\Debug\NewsApp.pdb

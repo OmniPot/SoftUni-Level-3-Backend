@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<music>
+  <album name="The King of Limbs">
+    <artist name="Radiohead" />
+    <year>2003</year>
+    <producer>Pataroka</producer>
+    <price>19.99</price>
+    <songs>
+      <song title="Bloom" duration="5:15" />
+      <song title="Morning Mr Magpie" duration="4:41" />
+      <song title="Little by Little" duration="4:27" />
+      <song title="Feral" duration="3:13" />
+      <song title="Lotus Flower" duration="5:01" />
+      <song title="Codex" duration="4:47" />
+      <song title="Give Up the Ghost" duration="4:50" />
+      <song title="Separator" duration="5:20" />
+    </songs>
+  </album>
+  <album name="Dummy">
+    <artist name="Portishead" />
+    <year>2000</year>
+    <producer>Sasho Roman</producer>
+    <price>2.99</price>
+    <songs>
+      <song title="Mysterons" duration="5:02" />
+      <song title="Sour Times" duration="4:11" />
+      <song title="Strangers" duration="3:55" />
+      <song title="It Could Be Sweet" duration="4:16" />
+      <song title="Wandering Star" duration="4:51" />
+      <song title="It's a Fire" duration="3:49" />
+      <song title="Numb" duration="3:54" />
+      <song title="Roads" duration="5:02" />
+      <song title="Pedestal" duration="3:39" />
+      <song title="Biscuit" duration="5:01" />
+      <song title="Glory Box" duration="5:06" />
+    </songs>
+  </album>
+  <album name="Third">
+    <artist name="Portishead" />
+    <year>2014</year>
+    <producer>Grisha Ganchev</producer>
+    <price>20.99</price>
+    <songs>
+      <song title="Silence" duration="4:58" />
+      <song title="Hunter" duration="3:57" />
+      <song title="Nylon Smile" duration="3:16" />
+      <song title="The Rip" duration="4:29" />
+      <song title="Plastic" duration="3:27" />
+      <song title="We Carry On" duration="6:27" />
+      <song title="Deep Water" duration="1:31" />
+      <song title="Machine Gun" duration="4:43" />
+      <song title="Small" duration="6:45" />
+      <song title="Magic Doors" duration="3:32" />
+      <song title="Threads" duration="5:45" />
+    </songs>
+  </album>
+</music>

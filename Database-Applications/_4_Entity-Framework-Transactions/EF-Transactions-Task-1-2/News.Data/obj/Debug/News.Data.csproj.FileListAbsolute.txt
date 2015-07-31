@@ -1,0 +1,12 @@
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Data\bin\Debug\News.Data.dll.config
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Data\bin\Debug\News.Data.dll
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Data\bin\Debug\News.Data.pdb
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Data\bin\Debug\EntityFramework.dll
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Data\bin\Debug\News.Models.dll
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Data\bin\Debug\News.Models.pdb
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Data\bin\Debug\EntityFramework.xml
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Data\obj\Debug\News.Data.csprojResolveAssemblyReference.cache
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Data\obj\Debug\News.Data.dll
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Data\obj\Debug\News.Data.pdb

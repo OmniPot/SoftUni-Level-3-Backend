@@ -1,0 +1,5 @@
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Models\bin\Debug\News.Models.dll
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Models\bin\Debug\News.Models.pdb
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Models\obj\Debug\News.Models.csprojResolveAssemblyReference.cache
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Models\obj\Debug\News.Models.dll
+E:\Software University\Level_3_Backend-Module\Database-Apps\_4_Entity-Framework-Transactions\EF-Transactions-Task-1-2\News.Models\obj\Debug\News.Models.pdb
