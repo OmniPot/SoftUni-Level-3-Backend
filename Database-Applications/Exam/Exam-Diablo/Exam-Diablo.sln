@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.EF-Mapping-Db-First", "01.EF-Mapping-Db-First\01.EF-Mapping-Db-First.csproj", "{7FBFF6E2-8144-4751-9173-4DDADEB5565B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Export-Char-PlayedBy-Json", "02.Export-Char-PlayedBy-Json\02.Export-Char-PlayedBy-Json.csproj", "{DC503F72-D766-4599-8CED-3276567B332A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Export-Finished-Games-XML", "03.Export-Finished-Games-XML\03.Export-Finished-Games-XML.csproj", "{9F1B3332-F36E-409F-98C1-ADCC248D6236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Import-Users-XML", "04.Import-Users-XML\04.Import-Users-XML.csproj", "{0C0312F7-D33D-4F41-A076-407039816A7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code-First", "Code-First", "{BA672A41-E80A-4585-A0E2-0E101D5F6860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Models", "Movies.Models\Movies.Models.csproj", "{EA6A6D34-6F18-4A4A-9DB0-2E91B81353F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Data", "Movies.Data\Movies.Data.csproj", "{8B8D4ED7-4C3F-4AD3-B9C0-0D4115C38B70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies.Client", "Movies.Client\Movies.Client.csproj", "{156B6C80-86A9-4BAB-868E-20016CE0385F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBFF6E2-8144-4751-9173-4DDADEB5565B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBFF6E2-8144-4751-9173-4DDADEB5565B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBFF6E2-8144-4751-9173-4DDADEB5565B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBFF6E2-8144-4751-9173-4DDADEB5565B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC503F72-D766-4599-8CED-3276567B332A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC503F72-D766-4599-8CED-3276567B332A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC503F72-D766-4599-8CED-3276567B332A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC503F72-D766-4599-8CED-3276567B332A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1B3332-F36E-409F-98C1-ADCC248D6236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1B3332-F36E-409F-98C1-ADCC248D6236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1B3332-F36E-409F-98C1-ADCC248D6236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1B3332-F36E-409F-98C1-ADCC248D6236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0312F7-D33D-4F41-A076-407039816A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0312F7-D33D-4F41-A076-407039816A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0312F7-D33D-4F41-A076-407039816A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0312F7-D33D-4F41-A076-407039816A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6A6D34-6F18-4A4A-9DB0-2E91B81353F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6A6D34-6F18-4A4A-9DB0-2E91B81353F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6A6D34-6F18-4A4A-9DB0-2E91B81353F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6A6D34-6F18-4A4A-9DB0-2E91B81353F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8D4ED7-4C3F-4AD3-B9C0-0D4115C38B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8D4ED7-4C3F-4AD3-B9C0-0D4115C38B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8D4ED7-4C3F-4AD3-B9C0-0D4115C38B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8D4ED7-4C3F-4AD3-B9C0-0D4115C38B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156B6C80-86A9-4BAB-868E-20016CE0385F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156B6C80-86A9-4BAB-868E-20016CE0385F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156B6C80-86A9-4BAB-868E-20016CE0385F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156B6C80-86A9-4BAB-868E-20016CE0385F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EA6A6D34-6F18-4A4A-9DB0-2E91B81353F2} = {BA672A41-E80A-4585-A0E2-0E101D5F6860}
+		{8B8D4ED7-4C3F-4AD3-B9C0-0D4115C38B70} = {BA672A41-E80A-4585-A0E2-0E101D5F6860}
+		{156B6C80-86A9-4BAB-868E-20016CE0385F} = {BA672A41-E80A-4585-A0E2-0E101D5F6860}
+	EndGlobalSection
+EndGlobal
